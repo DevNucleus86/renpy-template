@@ -5,7 +5,7 @@ This project is a work in progress, featuring Ren'Py code snippets that I freque
 ## Demo (See the full list of features below)
 
 ### Dynamic main menu and feather icons in the UI text
-<img src="https://github.com/DevNucleus86/renpy-template/blob/4fa894ff261999ec5e0d25009cf107f7d9617502/demo/main_menu.gif" width=600>
+<img src="https://github.com/DevNucleus86/renpy-template/demo/main_menu.gif" width=600>
 
 ### Expression composition screen and blinking sprites
 <img src="https://github.com/DevNucleus86/renpy-template/blob/4fa894ff261999ec5e0d25009cf107f7d9617502/demo/expressions.gif" width=600>
